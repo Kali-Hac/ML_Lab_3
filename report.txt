@@ -1,0 +1,145 @@
+Tree_depth = 2:
+    Classifier_Num = 2:
+                 precision    recall  f1-score   support
+
+       Positive      0.829     0.784     0.806       111
+       Negative      0.747     0.798     0.772        89
+
+    avg / total      0.792     0.790     0.791       200
+
+
+    Classifier_Num = 3:
+                 precision    recall  f1-score   support
+
+       Positive      0.863     0.793     0.826       111
+       Negative      0.765     0.843     0.802        89
+
+    avg / total      0.819     0.815     0.816       200
+
+
+    Classifier_Num = 4:
+                 precision    recall  f1-score   support
+
+       Positive      0.775     0.712     0.742       111
+       Negative      0.673     0.742     0.706        89
+
+    avg / total      0.730     0.725     0.726       200
+
+
+    Classifier_Num = 5:
+                 precision    recall  f1-score   support
+
+       Positive      0.912     0.658     0.764       111
+       Negative      0.683     0.921     0.785        89
+
+    avg / total      0.811     0.775     0.773       200
+
+
+    Classifier_Num = 6:
+                 precision    recall  f1-score   support
+
+       Positive      0.696     0.928     0.795       111
+       Negative      0.846     0.494     0.624        89
+
+    avg / total      0.763     0.735     0.719       200
+
+
+    Classifier_Num = 7:
+                 precision    recall  f1-score   support
+
+       Positive      0.788     0.703     0.743       111
+       Negative      0.673     0.764     0.716        89
+
+    avg / total      0.737     0.730     0.731       200
+
+
+    Classifier_Num = 8:
+                 precision    recall  f1-score   support
+
+       Positive      0.850     0.766     0.806       111
+       Negative      0.740     0.831     0.783        89
+
+    avg / total      0.801     0.795     0.796       200
+
+
+    Classifier_Num = 9:
+                 precision    recall  f1-score   support
+
+       Positive      0.780     0.640     0.703       111
+       Negative      0.633     0.775     0.697        89
+
+    avg / total      0.715     0.700     0.700       200
+
+Tree_depth = 4:
+    Classifier_Num = 2:
+                 precision    recall  f1-score   support
+
+       Positive      0.861     0.892     0.876       111
+       Negative      0.859     0.820     0.839        89
+
+    avg / total      0.860     0.860     0.860       200
+
+
+    Classifier_Num = 3:
+                 precision    recall  f1-score   support
+
+       Positive      0.891     0.883     0.887       111
+       Negative      0.856     0.865     0.860        89
+
+    avg / total      0.875     0.875     0.875       200
+
+
+    Classifier_Num = 4:
+                 precision    recall  f1-score   support
+
+       Positive      0.829     0.784     0.806       111
+       Negative      0.747     0.798     0.772        89
+
+    avg / total      0.792     0.790     0.791       200
+
+
+    Classifier_Num = 5:
+                 precision    recall  f1-score   support
+
+       Positive      0.849     0.910     0.878       111
+       Negative      0.877     0.798     0.835        89
+
+    avg / total      0.861     0.860     0.859       200
+
+
+    Classifier_Num = 6:
+                 precision    recall  f1-score   support
+
+       Positive      0.790     0.847     0.817       111
+       Negative      0.790     0.719     0.753        89
+
+    avg / total      0.790     0.790     0.789       200
+
+
+    Classifier_Num = 7:
+                 precision    recall  f1-score   support
+
+       Positive      0.949     0.847     0.895       111
+       Negative      0.832     0.944     0.884        89
+
+    avg / total      0.897     0.890     0.890       200
+
+
+    Classifier_Num = 8:
+                 precision    recall  f1-score   support
+
+       Positive      0.769     0.901     0.830       111
+       Negative      0.843     0.663     0.742        89
+
+    avg / total      0.802     0.795     0.791       200
+
+
+    Classifier_Num = 9:
+                 precision    recall  f1-score   support
+
+       Positive      0.792     0.757     0.774       111
+       Negative      0.713     0.753     0.732        89
+
+    avg / total      0.757     0.755     0.756       200
+
+
